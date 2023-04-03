@@ -1,21 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniela Marfil
 ======================================================================================================================================
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115754992/229617207-46a0d4e9-ae33-405d-b825-845e53c4ad0d.gif" />
+</p>
 
 Web Developer
+
 -------------
-![cool gift](/path/to/img.jpg)
 I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to start my career in tech and grow the talents to build the future within an inspiring team.
 
 * 🌍  I'm based in Miami, FL
-###* 🖥️  See my portfolio at [My Portfolio](http://myweb.com)
-###* ✉️  You can contact me at [nocontact@mail.com](mailto:nocontact@mail.com)
-###* 🚀  I'm currently working on [Something](http://myapp.com)
 * 🧠  I'm learning Python and other technologies
-###* 🤝  I'm open to collaborating on everything
 * ⚡  I love building things, with or without code
 
+<br><br>
 > You don't have to reinvent the wheel, just make it spin!
-
+<br>
+ 
 ### Skills
 
 
@@ -52,6 +53,6 @@ I am a hardworking and detail-oriented Web developer eager to learn the latest t
 
 <div width="100%" align="center"><a href="https://github.com/danielacmg/D_Alive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=D_Alive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/StarWarsBlogReadingList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=StarWarsBlogReadingList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/danielacmg/AuthPy2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=AuthPy2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
