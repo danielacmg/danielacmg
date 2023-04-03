@@ -3,16 +3,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
+![cool gift](/path/to/img.jpg)
 I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to start my career in tech and grow the talents to build the future within an inspiring team.
 
 * 🌍  I'm based in Miami, FL
-* 🖥️  See my portfolio at [My Portfolio](http://myweb.com)
-* ✉️  You can contact me at [nocontact@mail.com](mailto:nocontact@mail.com)
-* 🚀  I'm currently working on [Something](http://myapp.com)
+###* 🖥️  See my portfolio at [My Portfolio](http://myweb.com)
+###* ✉️  You can contact me at [nocontact@mail.com](mailto:nocontact@mail.com)
+###* 🚀  I'm currently working on [Something](http://myapp.com)
 * 🧠  I'm learning Python and other technologies
-* 🤝  I'm open to collaborating on everything
+###* 🤝  I'm open to collaborating on everything
 * ⚡  I love building things, with or without code
+
+> You don't have to reinvent the wheel, just make it spin!
 
 ### Skills
 
