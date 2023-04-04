@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to restart my career in tech and grow the talents to build the future within an inspiring team. I enjoy turning problems into solutions, learning and getting creative in the process.
+I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to restart my career in tech and grow the talents to build the future within an inspiring team. I enjoy turning problems into solutions, learning, and getting creative in the process.
 
 * 🌍  I'm based in Miami, FL and looking to go around the world
 * 🧠  I'm learning Python and other technologies
@@ -76,7 +76,8 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
    <img src="https://user-images.githubusercontent.com/115754992/229647863-117b4d4b-0576-43c2-a0c2-9818c9feb7fe.png" alt="femalecodertocat" width="30%"/>
   </div> 
 
-> You don't have to reinvent the wheel, just make it spin!
+> You don't have to reinvent the wheel, just make it spin!![wheel_black](https://user-images.githubusercontent.com/115754992/229938470-7fb70b73-f38a-4d08-9eb4-3396a7c9c0ca.gif)
+
 <br/>
 
 <div  align="right"><a href="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img
