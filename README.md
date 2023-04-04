@@ -1,26 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniela Marfil
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color: #ec4899">Daniela Marfil</span>
 ======================================================================================================================================
+
+**Web Developer**
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115754992/229617207-46a0d4e9-ae33-405d-b825-845e53c4ad0d.gif" />
 </p>
 
-Web Developer
 
--------------
-I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to start my career in tech and grow the talents to build the future within an inspiring team.
+I am a hardworking and detail-oriented Web developer eager to learn the latest technologies and seek new challenges that allow me to start my career in tech and grow the talents to build the future within an inspiring team. I enjoy turning problems into solutions, learning and getting creative in the process.
 
-* 🌍  I'm based in Miami, FL
+* 🌍  I'm based in Miami, FL and looking to go around the world
 * 🧠  I'm learning Python and other technologies
 * ⚡  I love building things, with or without code
 
-<br><br>
-> You don't have to reinvent the wheel, just make it spin!
-<br>
- 
+
 ### Skills
 
 
-<p align="left">
+<p align="left" width="45%">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -35,24 +33,52 @@ I am a hardworking and detail-oriented Web developer eager to learn the latest t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielamarfil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"![163-1630266_dictionary-clipart-dictionary-spanish-english-and-spanish-png](https://user-images.githubusercontent.com/115754992/229661776-34c99ac0-2846-4fb7-bc22-c455fd8c7eb2.png)
+> <a h![Uploading 163-1630266_dictionary-clipart-dictionary-spanish-english-and-spanish-png.png…]()
+ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielamarfil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Languages
+
+<p align="left">
+
+ <img src="https://user-images.githubusercontent.com/115754992/229662252-71ac2d3b-f883-4b25-9bc4-e584e3561dd4.jpg" alt="jslhr-h-17-0160desjardins_featimage"  width="20%"/>
+</p>
+
+
 
 ### Badges
 
 <b>My GitHub Stats</b>
+<div width="100%" align="center" display= "inline-block">
+<a href="http://www.github.com/danielacmg"><img src="https://github-readme-stats.vercel.app/api?username=danielacmg&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielacmg's GitHub stats"  width="45%"  align="left" style= "margin-bottom:25px"/></a>
 
-<a href="http://www.github.com/danielacmg"><img src="https://github-readme-stats.vercel.app/api?username=danielacmg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielacmg's GitHub stats" /></a>
+<a href="https://github.com/danielacmg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielacmg&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  width="45%" align="right"/></a>
+  
+<a href="http://www.github.com/danielacmg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="45%" align="left" margin="15px" v-align="bottom"/></a> 
+</div>
 
-<a href="http://www.github.com/danielacmg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<br /><br /><br /><br /><br /><br /><br /><br />
+<div margin-top="15px">
 <a href="http://www.github.com/danielacmg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielacmg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/danielacmg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielacmg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+<br /><br /><br /><br />
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/danielacmg/D_Alive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=D_Alive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/StarWarsBlogReadingList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=StarWarsBlogReadingList&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/danielacmg/D_Alive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=D_Alive&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/StarWarsBlogReadingList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=StarWarsBlogReadingList&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/danielacmg/AuthPy2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=AuthPy2&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/ReactFetchToDoList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=ReactFetchToDoList&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/danielacmg/AuthPy2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=AuthPy2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div align="right" style="float:right">
+   <img src="https://user-images.githubusercontent.com/115754992/229647863-117b4d4b-0576-43c2-a0c2-9818c9feb7fe.png" alt="femalecodertocat" width="30%"/>
+  </div> 
+
+> You don't have to reinvent the wheel, just make it spin!
+<br/>
+
+<div  align="right"><a href="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/danielacmg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></div>
+
