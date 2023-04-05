@@ -47,21 +47,27 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
 
 
 ### Badges
-
 <b>My GitHub Stats</b>
-<div width="100%" align="center" display= "inline-block">
-<a href="http://www.github.com/danielacmg"><img src="https://github-readme-stats.vercel.app/api?username=danielacmg&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielacmg's GitHub stats"  width="45%"  align="left" style= "margin-bottom:25px"/></a>
-
-<a href="https://github.com/danielacmg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielacmg&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  width="45%" align="right"/></a>
-  
-<a href="http://www.github.com/danielacmg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="45%" align="left" margin="15px" v-align="bottom"/></a> 
-</div>
-
+<div align="center" >
+<a  href=" href="http://www.github.com/danielacmg"">
+<img src="https://github-readme-stats.vercel.app/api?username=danielacmg&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielacmg's GitHub stats"  width="47.5%"  align="left" style= "margin-bottom:25px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielacmg&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  width="47%" align="right"/>
 <br /><br /><br /><br /><br /><br /><br /><br />
-<div margin-top="15px">
-<a href="http://www.github.com/danielacmg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielacmg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="47.5%" align="left" v-align="bottom"/></a> 
+</a>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<details align="left">
+  <summary>More stats</summary>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielacmg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</details>
+
 </div>
-<br /><br /><br /><br />
+
+
+<hr></hr>
+
 
 <b>Top Repositories</b>
 
@@ -69,7 +75,7 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
 
 <div width="100%" align="center"><a href="https://github.com/danielacmg/AuthPy2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=AuthPy2&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/ReactFetchToDoList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=ReactFetchToDoList&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><p><br /></p>
 
 
 <div align="right" style="float:right">
@@ -81,5 +87,5 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
 <br/>
 
 <div  align="right"><a href="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielacmg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></div>
+src="https://img.shields.io/github/followers/danielacmg?logo=github&style=for-the-badge&labelColor=1c1917"/></a><img src="https://komarev.com/ghpvc/?username=danielacmg&style=for-the-badge&logo=eye&color=ec4899&label=PROFILE+VIEWS" alt ="Totals Views"/></div>
 
