@@ -55,7 +55,7 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
 <br /><br /><br /><br /><br /><br /><br /><br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="50%" align="left" v-align="bottom"/></a> 
 </a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 <details align="left">
