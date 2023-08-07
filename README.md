@@ -46,29 +46,6 @@ ref="https://www.github.com/danielacmg" target="_blank" rel="noreferrer"><img sr
 
 
 
-### Badges
-<b>My GitHub Stats</b>
-<div align="center" >
-<a  href=" href="http://www.github.com/danielacmg"">
-<img src="https://github-readme-stats.vercel.app/api?username=danielacmg&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielacmg's GitHub stats"  width="50%"  align="left" style= "margin-bottom:25px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielacmg&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="right"   width="45%"/>
-<br /><br /><br /><br /><br /><br /><br /><br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielacmg&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="50%" align="left" v-align="bottom"/></a> 
-</a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
-<details align="left">
-  <summary>More stats</summary>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielacmg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</details>
-
-</div>
-
-
-<hr></hr>
-
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/danielacmg/Alive_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=Alive_Project&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/danielacmg/StarWarsBlogReadingList" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=danielacmg&repo=StarWarsBlogReadingList&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
